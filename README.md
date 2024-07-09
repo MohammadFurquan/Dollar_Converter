@@ -34,3 +34,8 @@ To run this application on your local machine, follow these steps:
 2. Enter the amount in USD in the input field.
 3. Click on the "Convert" button.
 4. The converted amount in INR will be displayed on the screen.
+
+## Acknowledgments
+- Golden Bird Education for the internship opportunity and guidance.
+- Tools: Android Studio, Canva, Adobe XD.
+
