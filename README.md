@@ -1,4 +1,4 @@
-# Dollar Converter
+# Dollar Converterr
 
 ## Overview
 Dollar Converter is an Android application developed in Android Studio during an internship at Golden Bird Education. This application allows users to convert US Dollars (USD) to Indian Rupees (INR). 
