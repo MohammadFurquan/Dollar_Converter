@@ -26,5 +26,5 @@ To run this application on your local machine, follow these steps:
 2. **Open the project in Android Studio:**
 - Open Android Studio.
 - Click on File -> Open and navigate to the cloned repository.
-Build and Run the project:
-Click on Run -> Run 'app'.
+3. **Build and Run the project:**
+- Click on Run -> Run 'app'.
