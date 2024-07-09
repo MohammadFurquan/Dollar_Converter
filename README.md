@@ -21,7 +21,7 @@ To run this application on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/dollar_converter.git
+   git clone https://github.com/MohammadFurquan/dollar_converter.git
 
 2. **Open the project in Android Studio:**
 - Open Android Studio.
