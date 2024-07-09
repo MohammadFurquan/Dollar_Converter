@@ -28,3 +28,9 @@ To run this application on your local machine, follow these steps:
 - Click on File -> Open and navigate to the cloned repository.
 3. **Build and Run the project:**
 - Click on Run -> Run 'app'.
+
+## Usage
+1. Open the Dollar Converter application.
+2. Enter the amount in USD in the input field.
+3. Click on the "Convert" button.
+4. The converted amount in INR will be displayed on the screen.
