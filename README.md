@@ -15,6 +15,7 @@ Dollar Converter is an Android application developed in Android Studio during an
 
 ## Screenshots
 ![Dollar Converter UI](path_to_screenshot)
+![Logo](https://github.com/MohammadFurquan/Dollar_Converter/blob/main/Logo.jpg)
 
 ## Installation
 To run this application on your local machine, follow these steps:
