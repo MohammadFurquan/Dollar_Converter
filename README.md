@@ -14,8 +14,9 @@ Dollar Converter is an Android application developed in Android Studio during an
 - **Adobe XD:** Used for designing the UI of the application.
 
 ## Screenshots
-![Dollar Converter UI](path_to_screenshot)
 ![Logo](https://github.com/MohammadFurquan/Dollar_Converter/blob/main/Logo.jpg)
+![Dollar Converter UI](https://github.com/MohammadFurquan/Dollar_Converter/blob/main/Screenshots.jpg)
+
 
 ## Installation
 To run this application on your local machine, follow these steps:
@@ -39,4 +40,15 @@ To run this application on your local machine, follow these steps:
 ## Acknowledgments
 - Golden Bird Education for the internship opportunity and guidance.
 - Tools: Android Studio, Canva, Adobe XD.
+
+## Contribution 
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
+
+## Contact :-
+For any questions or feedback, please reach out to me at [Email](mailto:mdfurquan313@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-furquan-713561234/).
+
+---
+
+Check out my other projects at [GitHub](https://github.com/MohammadFurquan). </br>
+Thank you!
 
